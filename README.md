@@ -57,19 +57,7 @@ Whether I am teaching a robotic arm to spot microscopic fabric defects, building
 
 ---
 
-### Beyond the Screen
-
-Code is only half the story! Outside of labs and terminals, you can usually find me:
-- 🎨 Sketching & drawing, journaling daily, and reading Spanish & Turkish literature
-- 🇪🇸 Practicing beginner Spanish while exploring Madrid and Spain
-
----
-
 <div align="center">
-
-**GitHub Activity**
-
-![Gülsüm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulssumm&show_icons=true&theme=tokyonight&hide_border=true)
 
 *Always open to research collaborations, AI engineering roles, and interesting conversations!*
 
