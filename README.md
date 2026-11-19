@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BCls%C3%BCm-%C3%A7etin%C3%B6zl%C3%BC-16537021a)
 [![Email](https://img.shields.io/badge/Email-gulsumcetinozlu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulsumcetinozlu@gmail.com)
-[![Location](https://img.shields.io/badge/Based%20in-Madrid%2C%20Spain-FFC400?style=for-the-badge&logo=googlemaps&logoColor=black)]()
+![Location](https://img.shields.io/badge/Based%20in-Madrid%2C%20Spain-FFC400?style=for-the-badge&logo=googlemaps&logoColor=black)
 
 </div>
 
@@ -14,9 +14,9 @@
 
 I am a Computer Engineering graduate (**3.49 / 4.00 GPA**) currently working as an **Erasmus+ Research Intern at IMDEA Materials Institute** in Madrid, Spain. 
 
-Whether I am teaching a robotic arm to spot microscopic fabric defects, building OCR pipelines for scientific material tracking, or fine-tuning compact language models, I love bridging the gap between **Artificial Intelligence research** and **usable software products**.
+Whether I am teaching a robotic arm to spot microscopic fabric defects, building automated data extraction pipelines for scientific material tracking, or fine-tuning compact language models, I love bridging the gap between **Artificial Intelligence research** and **usable software products**.
 
-- **Currently working on:** Scientific data platforms, automated PDF/OCR extraction, and digital traceability for materials science (**FAIR-LAB**).
+- **Currently working on:** Scientific data platforms, automated document parsing, and digital traceability for materials science (**FAIR-LAB**).
 - **International background:** Researching in **Madrid, Spain** 🇪🇸 | Previously completed an Erasmus+ exchange semester at **Lodz University of Technology, Poland** 🇵🇱.
 - **Next Goal:** Pursuing advanced graduate research in Artificial Intelligence & Intelligent Systems.
 
@@ -27,7 +27,7 @@ Whether I am teaching a robotic arm to spot microscopic fabric defects, building
 | Project | What It Does (The Big Picture) | Tech Behind It |
 | :--- | :--- | :--- |
 | **Robotic Fabric Defect Inspection** *(B.Sc. Thesis)* | **An automated quality-control eye for textiles.** Uses deep learning and a robotic arm with tactile sensors to scan fabrics, stitch high-res images together, and detect microscopic weaving flaws automatically. | `Python` `PyTorch` `Attention U-Net` `HRNet` `OpenCV` `Robotics` |
-| **FAIR-LAB & Powder Certificate Parser** *(IMDEA Materials)* | **Turning messy lab paperwork into structured science.** Automates data extraction from supplier powder certificates and builds traceable lifecycle workflows for 3D-printed & advanced materials research. | `TypeScript` `FastAPI` `OCR` `Docker` `PostgreSQL` |
+| **FAIR-LAB & Powder Certificate Parser** *(IMDEA Materials)* | **Turning messy lab paperwork into structured science.** Automates data extraction from supplier powder certificates and builds traceable lifecycle workflows for 3D-printed & advanced materials research. | `TypeScript` `FastAPI` `Python` `Docker` `PostgreSQL` |
 | **TEKNOFEST Air Defense Vision System** | **Real-time object tracking in the sky.** Built the live camera pipeline, user interface, and computer vision detection model for an autonomous air-defense competition system. | `YOLOv8` `OpenCV` `Python` `UI Design` |
 | **Bilingual Smart Home Assistant** | **A voice assistant that understands both Turkish & English.** Recognizes spoken commands using hybrid audio processing and local language models—without relying on heavy cloud APIs. | `NLP` `SBERT` `LLaMA 3.2` `Gemma` `Librosa` |
 | **Image Captioning Engine (MS-COCO)** | **Teaching AI to describe what it sees.** An encoder-decoder neural network with attention mechanisms that looks at an image and writes a natural sentence describing the scene. | `TensorFlow` `Keras` `CNN-RNN` `Attention` |
